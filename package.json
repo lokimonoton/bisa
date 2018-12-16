@@ -2,7 +2,7 @@
   "name": "panda",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://lokimonoton.github.io/bismillah/",
+  "homepage":"https://lokimonoton.github.io/bisa",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
