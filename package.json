@@ -2,8 +2,10 @@
   "name": "panda",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://lokimonoton.github.io/bisa",
+  "homepage": "https://lokimonoton.github.io/bisa",
   "dependencies": {
+    "@material-ui/core": "^3.6.2",
+    "@material-ui/icons": "^3.0.1",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
