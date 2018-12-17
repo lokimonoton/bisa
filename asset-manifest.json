@@ -1,13 +1,13 @@
 {
-  "main.css": "/bisa/static/css/main.11d3a30a.chunk.css",
-  "main.js": "/bisa/static/js/main.86ec8306.chunk.js",
-  "main.js.map": "/bisa/static/js/main.86ec8306.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/bisa/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/bisa/static/js/1.324b6cf3.chunk.js.map",
+  "main.css": "/bisa/static/css/main.7fe56156.chunk.css",
+  "main.js": "/bisa/static/js/main.d037a3d2.chunk.js",
+  "main.js.map": "/bisa/static/js/main.d037a3d2.chunk.js.map",
+  "static/js/1.64933a25.chunk.js": "/bisa/static/js/1.64933a25.chunk.js",
+  "static/js/1.64933a25.chunk.js.map": "/bisa/static/js/1.64933a25.chunk.js.map",
   "runtime~main.js": "/bisa/static/js/runtime~main.e78b80e4.js",
   "runtime~main.js.map": "/bisa/static/js/runtime~main.e78b80e4.js.map",
-  "static/css/main.11d3a30a.chunk.css.map": "/bisa/static/css/main.11d3a30a.chunk.css.map",
+  "static/css/main.7fe56156.chunk.css.map": "/bisa/static/css/main.7fe56156.chunk.css.map",
   "index.html": "/bisa/index.html",
-  "precache-manifest.25e280265011ad865a1ca6d89f9dd8cd.js": "/bisa/precache-manifest.25e280265011ad865a1ca6d89f9dd8cd.js",
+  "precache-manifest.b7f43682d8c28ac23c31bee4cc059764.js": "/bisa/precache-manifest.b7f43682d8c28ac23c31bee4cc059764.js",
   "service-worker.js": "/bisa/service-worker.js"
 }
